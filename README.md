@@ -1,2 +1,2 @@
-# carmel-barmitzvah-landing
+# carmel-barmitzvah
 landing page for the form
